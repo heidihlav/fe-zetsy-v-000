@@ -18,12 +18,16 @@ body {
 }
 
 /* Write all remaining styles here */
-a h1 {
-  color: rgb(160,175,174);
+header a {
+	color: rgb(160,175,174);
+	text-decoration: none;
+}
+
+h1 {
   font-family: 'Comfortaa', serif;
 	font-size: 5em;
 	font-weight: bold;
-	text-decoration: none;
+	
 }
 
 h2 {
